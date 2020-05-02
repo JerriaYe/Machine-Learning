@@ -1,6 +1,6 @@
 # Machine-Learning <font color = 'red'> 
 A repositoty for machine learning.
-
+https://github.com/MisterBooo/LeetCodeAnimation/tree/master/0001-Two-Sum
 ## 1.Linear_Regression
 ### 理解原理
 线性回归是一种用于回归问题的最常见的方法。我们可以分别从一般形式以及极大似然方面对其进行理解。
